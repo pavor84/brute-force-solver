@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS", "DFS\DFS.csproj", "{8001C323-922E-475C-85ED-7A4A50284956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS.Benchmark", "DFS.Benchmark\DFS.Benchmark.csproj", "{2679334D-F7A4-447C-92A3-37171F9AB138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS.Tests", "DFS.Tests\DFS.Tests.csproj", "{9A26E6A8-4018-4B35-91C7-151775A4A6B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS.Samples.T9", "DFS.Samples.T9\DFS.Samples.T9.csproj", "{255B9211-3232-403F-8D73-7A729CEC05DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS.Samples.RPG", "DFS.Samples.RPG\DFS.Samples.RPG.csproj", "{52785037-14EF-4EC8-84A2-E1D3563351F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255B9211-3232-403F-8D73-7A729CEC05DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255B9211-3232-403F-8D73-7A729CEC05DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255B9211-3232-403F-8D73-7A729CEC05DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255B9211-3232-403F-8D73-7A729CEC05DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2679334D-F7A4-447C-92A3-37171F9AB138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2679334D-F7A4-447C-92A3-37171F9AB138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2679334D-F7A4-447C-92A3-37171F9AB138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2679334D-F7A4-447C-92A3-37171F9AB138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52785037-14EF-4EC8-84A2-E1D3563351F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52785037-14EF-4EC8-84A2-E1D3563351F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52785037-14EF-4EC8-84A2-E1D3563351F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52785037-14EF-4EC8-84A2-E1D3563351F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8001C323-922E-475C-85ED-7A4A50284956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8001C323-922E-475C-85ED-7A4A50284956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8001C323-922E-475C-85ED-7A4A50284956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8001C323-922E-475C-85ED-7A4A50284956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A26E6A8-4018-4B35-91C7-151775A4A6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A26E6A8-4018-4B35-91C7-151775A4A6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A26E6A8-4018-4B35-91C7-151775A4A6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A26E6A8-4018-4B35-91C7-151775A4A6B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DFS.Benchmark\DFS.Benchmark.csproj
+	EndGlobalSection
+EndGlobal
